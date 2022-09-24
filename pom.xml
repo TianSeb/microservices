@@ -14,14 +14,13 @@
     <module>eureka-server</module>
     <module>clients</module>
     <module>notifications</module>
-      <module>apig</module>
-      <module>amqp</module>
-      <module>refresh</module>
+    <module>apig</module>
+    <module>amqp</module>
   </modules>
 
   <name>microservices</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.tianseb.com</url>
+  <url>https://www.tianseb.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
